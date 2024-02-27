@@ -1,0 +1,41 @@
+DSOO-Program2-Demo: ./tree 3.txt 
+characters : dafdlaflkekkeaqqqwezxczxiisidkwkwkdasdAAASSDASDKKWKQPPNNCNKXCKZLXCKKKELKQWWQIWDOSADCEXMMSHDCNZZWWasdaswecesdf
+
+A =  5 | C =  5 | D =  5 | E =  2 | H =  1 | I =  1 | K =  9 | L =  2 | M =  2 | N =  4 | 
+O =  1 | P =  2 | Q =  3 | S =  5 | W =  6 | X =  3 | Z =  3 | a =  6 | c =  2 | d =  7 | 
+e =  5 | f =  3 | i =  3 | k =  6 | l =  2 | q =  3 | s =  5 | w =  4 | x =  2 | z =  2 | 
+
+A : 0000
+C : 11111
+D : 11101
+E : 101010
+H : 1100010
+I : 1100011
+K : 1101
+L : 110010
+M : 110000
+N : 10110
+O : 010100
+P : 111001
+Q : 10001
+S : 11110
+W : 0111
+X : 10000
+Z : 01011
+a : 0100
+c : 111000
+d : 1001
+e : 0010
+f : 10100
+i : 00111
+k : 0110
+l : 101011
+q : 00110
+s : 0001
+w : 10111
+x : 110011
+z : 010101
+
+Huffman code : 1010001110111111000000000001111111111111100000000001111111111110101010100001110000110
+decode : fWWcAACCSAAWCSEXck
+WEPL : 517

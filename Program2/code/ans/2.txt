@@ -1,0 +1,19 @@
+DSOO-Program2-Demo: ./tree 2.txt 
+characters : appapapadslfkdkdkkdwwAAAeee
+
+A =  3 | a =  4 | d =  4 | e =  3 | f =  1 | k =  4 | l =  1 | p =  4 | s =  1 | w =  2 | 
+
+A : 001
+a : 100
+d : 101
+e : 010
+f : 0000
+k : 110
+l : 0001
+p : 111
+s : 0110
+w : 0111
+
+Huffman code : 0011111110001010
+decode : Apple
+WEPL : 86

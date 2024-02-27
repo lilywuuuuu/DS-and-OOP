@@ -1,0 +1,16 @@
+DSOO-Program2-Demo: ./tree 1.txt 
+characters : iiiiillloooovvveeeeeeedsssoooooooooo
+
+d =  1 | e =  7 | i =  5 | l =  3 | o = 14 | s =  3 | v =  3 | 
+
+d : 1000
+e : 111
+i : 101
+l : 1001
+o : 0
+s : 1100
+v : 1101
+
+Huffman code : 1011001011011111000110000
+decode : ilovedsoo
+WEPL : 90
